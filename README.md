@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I am currently developing the second version of "Traffic Lights Controller"
-- 🌱 I am focused on learning VHDL
+- 🔭 I am currently developing ---
+- 🌱 I am focused on learning ---
 - 📫 You can reach me via Discord: theotsif.
