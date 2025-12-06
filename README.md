@@ -2,4 +2,4 @@
 
 - 🔭 I am currently developing ---
 - 🌱 I am focused on learning ---
-- 📫 You can reach me via Discord: theotsif.
+- 📫 You can reach me via Discord: mastertsif
